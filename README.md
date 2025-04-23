@@ -28,4 +28,6 @@ Website dịch văn bản miễn phí hỗ trợ nhiều ngôn ngữ khác nhau.
 1. Chọn ngôn ngữ nguồn (hoặc để tự động phát hiện)
 2. Chọn ngôn ngữ đích
 3. Nhập văn bản cần dịch
-4. Nhấn nút "Dịch Văn Bản" 
+4. Nhấn nút "Dịch Văn Bản"
+
+>>> link dùng thử: https://hht-nghia.github.io/translate1/
